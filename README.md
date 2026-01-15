@@ -1,10 +1,8 @@
 # 🖥️ Operating Systems, Concurrency & Computer Networking  
 **University of Leicester – Computing Module**
 
-![GitHub stars](https://img.shields.io/github/stars/Naumanpatell/REPO_NAME?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Naumanpatell/REPO_NAME?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Naumanpatell/REPO_NAME)
-![University](https://img.shields.io/badge/University-University%20of%20Leicester-purple)
+
+![University](https://img.shields.io/badge/University-University%20of%20Leicester-red)
 
 > 📌 Replace `REPO_NAME` with your actual GitHub repository name.
 
