@@ -1,72 +1,62 @@
-# Operating-Systems-and-Networking
+# 🖥️ Operating Systems, Concurrency & Computer Networking  
+**University of Leicester – Computing Module**
 
-🖥️ Operating Systems, Concurrency & Computer Networking
+![GitHub stars](https://img.shields.io/github/stars/Naumanpatell/REPO_NAME?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Naumanpatell/REPO_NAME?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Naumanpatell/REPO_NAME)
+![University](https://img.shields.io/badge/University-University%20of%20Leicester-purple)
 
-University of Leicester – Computing Module
+> 📌 Replace `REPO_NAME` with your actual GitHub repository name.
 
-📌 Replace REPO_NAME with your actual GitHub repository name.
+---
 
-📚 Module Overview
+## 📚 Module Overview
 
-This repository contains my lecture notes, summaries, and mind maps for a University of Leicester Computing module covering three fundamental areas of Computer Science:
+This repository contains **lecture notes, summaries, and mind maps** for a **University of Leicester Computing module** covering three core areas of Computer Science:
 
-Operating Systems (OS)
+- **Operating Systems (OS)**
+- **Concurrency**
+- **Computer Networking**
 
-Concurrency
+Each topic is large enough to be a standalone module. This course focuses on the **key concepts and highlights**, providing strong foundational knowledge.
 
-Computer Networking
+### 📊 Topic Weighting
+- **45% – Operating Systems**
+- **10% – Concurrency**
+- **45% – Computer Networking**
 
-Each of these topics is extensive and could be studied as a standalone module. This course focuses on the core concepts and highlights, providing a strong theoretical foundation.
+---
 
-📊 Topic Weighting
+## 🧠 Topics Covered
 
-45% – Operating Systems
+### 🔹 Operating Systems
+- Role and responsibilities of an Operating System  
+- Process management  
+- Memory management  
+- File systems  
+- Analysis of basic OS-related problems  
 
-10% – Concurrency
+### 🔹 Concurrency
+- Fundamentals of concurrency  
+- Concurrent execution of programs  
+- Analysing and reasoning about concurrent code  
 
-45% – Computer Networking
+### 🔹 Computer Networking
+- Network fundamentals  
+- Internet architecture  
+- Core networking protocols  
+- Communication over the internet  
 
-🧠 Topics Covered
-🔹 Operating Systems
+---
 
-Purpose and responsibilities of an Operating System
+## 🎯 Intended Learning Outcomes
 
-Process management
+By the end of this module, students should be able to:
 
-Memory management
+- Describe the **basic functioning of an operating system**
+- Explain **process, memory, and file management**
+- Analyse **simple concurrent code** and explain its behaviour
+- Describe the **main networking protocols**, particularly those used on the internet
+- Answer **conceptual and problem-based questions** on these topics
 
-File systems
-
-Analysing basic OS-related problems
-
-🔹 Concurrency
-
-Fundamentals of concurrency
-
-Concurrent execution of programs
-
-Reasoning about and analysing concurrent code
-
-🔹 Computer Networking
-
-Network fundamentals
-
-Internet architecture
-
-Core networking protocols
-
-Communication over the internet
-
-🎯 Intended Learning Outcomes
-
-On successful completion of this module, students should be able to:
-
-Describe the basic functioning of an operating system
-
-Explain process, memory, and file management
-
-Analyse simple concurrency problems and code
-
-Describe the main networking protocols, particularly those used on the internet
-
-Answer conceptual and problem-based questions related to these areas
+---
